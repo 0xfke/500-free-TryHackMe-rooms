@@ -18,7 +18,7 @@ Ready to start hacking? **Let’s go!** 💥
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |            3               |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |            3               |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |                            |
-| **[Reconnaissance](#recon)**                     |     10       |                            |
+| **[Reconnaissance](#recon)**                     |      7       |                            |
 | **[Scripting](#scripting)**                      |      7       |                            |
 | **[Networking](#networking)**                    |      7       |                            |
 | **[Tooling](#tooling)**                          |     18       |                            |
