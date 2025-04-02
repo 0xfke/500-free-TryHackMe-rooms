@@ -67,7 +67,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 ## Easy CTF
 - [x] [🕵️ TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)  .................................................  [**Write Up**](https://0xfke.github.io/posts/Try-Hack-Me-Wgel-ctf/)
       
-- [ ] [🕵️ TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)
+- [x] [🕵️ TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)
   
 - [ ] [🕵️ TryHackMe | Cheese CTF](https://tryhackme.com/room/cheesectfv10)
   
@@ -75,59 +75,53 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Joomify](https://tryhackme.com/room/joomify)
   
-- [ ] [🕵️ TryHackMe | Critical](https://tryhackme.com/room/critical)
+- [x] [🕵️ TryHackMe | Critical](https://tryhackme.com/room/critical)
   
 - [ ] [🕵️ TryHackMe | Publisher](https://tryhackme.com/room/publisher)
 
-- [ ] [🕵️ TryHackMe | Eviction](https://tryhackme.com/room/eviction)
+- [x] [🕵️ TryHackMe | Become a Hacker](https://tryhackme.com/room/becomeahackeroa)
 
-- [ ] [🕵️ TryHackMe | Become a Hacker](https://tryhackme.com/room/becomeahackeroa)
-
-- [ ] [🕵️ TryHackMe | W1seGuy](https://tryhackme.com/room/w1seguy)
+- [x] [🕵️ TryHackMe | W1seGuy](https://tryhackme.com/room/w1seguy)
   
 - [ ] [🕵️ TryHackMe | mKingdom](https://tryhackme.com/room/mkingdom)
 
-- [ ] [🕵️ TryHackMe | How Websites Work](https://tryhackme.com/room/howwebsiteswork)
+- [x] [🕵️ TryHackMe | How Websites Work](https://tryhackme.com/room/howwebsiteswork)
   
 - [ ] [🕵️ TryHackMe | Linux Process Analysis](https://tryhackme.com/room/linuxprocessanalysis)
   
 - [ ] [🕵️ TryHackMe | CyberLens](https://tryhackme.com/room/cyberlensp6)
 
-- [ ] [🕵️ TryHackMe | Security Principles](https://tryhackme.com/room/securityprinciples)
+- [x] [🕵️ TryHackMe | Security Principles](https://tryhackme.com/room/securityprinciples)
   
 - [ ] [🕵️ TryHackMe | TryHack3M: Bricks Heist](https://tryhackme.com/room/tryhack3mbricksheist)
   
 - [ ] [🕵️ TryHackMe | Creative](https://tryhackme.com/room/creative)
-  
-- [ ] [🕵️ TryHackMe | Eviction](https://tryhackme.com/room/eviction)
 
-- [ ] [🕵️ TryHackMe | Putting it all together](https://tryhackme.com/room/puttingitalltogether)
+- [x] [🕵️ TryHackMe | Putting it all together](https://tryhackme.com/room/puttingitalltogether)
   
-- [ ] [🕵️ TryHackMe | Probe](https://tryhackme.com/room/probe)
+- [ ] [🕵️ TryHackMe | Probe](https://tryhackme.com/room/probe) **🚨 no longer free.**
   
 - [ ] [🕵️ TryHackMe | Dreaming](https://tryhackme.com/room/dreaming)
 
 - [ ] [🕵️ TryHackMe | Pyramid Of Pain](https://tryhackme.com/room/pyramidofpainax)
   
-- [ ] [🕵️ TryHackMe | The Witch's Cauldron](https://tryhackme.com/room/cauldron)
+- [ ] [🕵️ TryHackMe | The Witch's Cauldron](https://tryhackme.com/room/cauldron) **🚨 no longer free.**
   
-- [ ] [🕵️ TryHackMe | Bulletproof Penguin ](https://tryhackme.com/room/bppenguin)
+- [ ] [🕵️ TryHackMe | Bulletproof Penguin ](https://tryhackme.com/room/bppenguin) **🚨 no longer free.**
   
 - [ ] [🕵️ TryHackMe | Hijack ](https://tryhackme.com/room/hijack)
   
 - [ ] [🕵️ TryHackMe | Compiled ](https://tryhackme.com/room/compiled)
   
-- [ ] [🕵️ TryHackMe | Super Secret TIp](https://tryhackme.com/room/supersecrettip)
+- [x] [🕵️ TryHackMe | Lesson Learned?](https://tryhackme.com/room/lessonlearned)
   
-- [ ] [🕵️ TryHackMe | Lesson Learned?](https://tryhackme.com/room/lessonlearned)
-  
-- [ ] [🕵️ TryHackMe | Grep](https://tryhackme.com/room/greprtp)
+- [ ] [🕵️ TryHackMe | Grep](https://tryhackme.com/room/greprtp) **🚨 no longer free.**
   
 - [ ] [🕵️ TryHackMe | Red](https://tryhackme.com/room/redisl33t)
   
-- [ ] [🕵️ TryHackMe | Snapped "Phish"-ing Line](https://tryhackme.com/room/snappedphishingline)
+- [ ] [🕵️ TryHackMe | Snapped "Phish"-ing Line](https://tryhackme.com/room/snappedphishingline) **🚨 no longer free.**
   
-- [ ] [🕵️ TryHackMe | Cat Pictures 2](https://tryhackme.com/room/catpictures2)
+- [x] [🕵️ TryHackMe | Cat Pictures 2](https://tryhackme.com/room/catpictures2)
   
 - [ ] [🕵️ TryHackMe | Flip](https://tryhackme.com/room/flip)
   
@@ -137,35 +131,35 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Opacity](https://tryhackme.com/room/opacity)
   
-- [ ] [🕵️ TryHackMe | LookBack](https://tryhackme.com/room/lookback)
+- [ ] [🕵️ TryHackMe | LookBack](https://tryhackme.com/room/lookback) **🚨 no longer free.**
   
 - [ ] [🕵️ TryHackMe | Bugged](https://tryhackme.com/room/bugged)
   
 - [ ] [🕵️ TryHackMe | GamingServer](https://tryhackme.com/room/gamingserver)
   
-- [ ] [🕵️ TryHackMe | Confidential](https://tryhackme.com/room/confidential)
+- [ ] [🕵️ TryHackMe | Confidential](https://tryhackme.com/room/confidential) **🚨 no longer free.**
   
-- [ ] [🕵️ TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
+- [ ] [🕵️ TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs) info
   
 - [ ] [🕵️ TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
   
-- [ ] [🕵️ TryHackMe | Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
+- [ ] [🕵️ TryHackMe | Bounty Hacker](https://tryhackme.com/room/cowboyhacker) Medium
   
-- [ ] [🕵️ TryHackMe | Fowsniff CTF](https://tryhackme.com/room/ctf)
+- [x] [🕵️ TryHackMe | Fowsniff CTF](https://tryhackme.com/room/ctf)
 
-- [ ] [🕵️ TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
+- [x] [🕵️ TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
 
 - [ ] [🕵️ TryHackMe | AttackerKB](https://tryhackme.com/room/attackerkb)
 
 - [ ] [🕵️ TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
-- [ ] [🕵️ TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+- [x] [🕵️ TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 
-- [ ] [🕵️ TryHackMe | Library](https://tryhackme.com/room/bsidesgtlibrary)
+- [x] [🕵️ TryHackMe | Library](https://tryhackme.com/room/bsidesgtlibrary)
 
 - [ ] [🕵️ TryHackMe | Thompson](https://tryhackme.com/room/bsidesgtthompson)
 
-- [ ] [🕵️ TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)
+- [x] [🕵️ TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)
 
 - [ ] [🕵️ TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
@@ -177,21 +171,21 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Dav](https://tryhackme.com/room/bsidesgtdav)
 
-- [ ] [🕵️ TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
+- [x] [🕵️ TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
 
 - [ ] [🕵️ TryHackMe | Ice](https://tryhackme.com/room/ice)
 
-- [ ] [🕵️ TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
+- [x] [🕵️ TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
 
 - [ ] [🕵️ TryHackMe | The Cod Caper](https://tryhackme.com/room/thecodcaper)
 
 - [ ] [🕵️ TryHackMe | Blaster](https://tryhackme.com/room/blaster)
 
-- [ ] [🕵️ TryHackMe | Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)
+- [ ] [🕵️ TryHackMe | Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101) Medium
 
 - [ ] [🕵️ TryHackMe | Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)
 
-- [ ] [🕵️ TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
+- [x] [🕵️ TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
 
 - [ ] [🕵️ TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
 
@@ -199,11 +193,11 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | KoTH Food CTF](https://tryhackme.com/room/kothfoodctf)
 
-- [ ] [🕵️ TryHackMe | Easy Peasy](https://tryhackme.com/room/easypeasyctf)
+- [x] [🕵️ TryHackMe | Easy Peasy](https://tryhackme.com/room/easypeasyctf)
 
 - [ ] [🕵️ TryHackMe | Tony the Tiger](https://tryhackme.com/room/tonythetiger)
 
-- [ ] [🕵️ TryHackMe | CTF collection Vol.1](https://tryhackme.com/room/ctfcollectionvol1)
+- [x] [🕵️ TryHackMe | CTF collection Vol.1](https://tryhackme.com/room/ctfcollectionvol1)
 
 - [ ] [🕵️ TryHackMe | Smag Grotto](https://tryhackme.com/room/smaggrotto)
 
@@ -227,7 +221,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Startup](https://tryhackme.com/room/startup)
 
-- [ ] [🕵️ TryHackMe | Chill Hack](https://tryhackme.com/room/chillhack)
+- [x] [🕵️ TryHackMe | Chill Hack](https://tryhackme.com/room/chillhack)
 
 - [ ] [🕵️ TryHackMe | ColddBox: Easy](https://tryhackme.com/room/colddboxeasy)
 
@@ -235,11 +229,11 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | All in One](https://tryhackme.com/room/allinonemj)
 
-- [ ] [🕵️ TryHackMe | Archangel](https://tryhackme.com/room/archangel)
+- [x] [🕵️ TryHackMe | Archangel](https://tryhackme.com/room/archangel)
 
-- [ ] [🕵️ TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
+- [x] [🕵️ TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
 
-- [ ] [🕵️ TryHackMe | Lunizz CTF](https://tryhackme.com/room/lunizzctfnd)
+- [ ] [🕵️ TryHackMe | Lunizz CTF](https://tryhackme.com/room/lunizzctfnd) Medium
 
 - [ ] [🕵️ TryHackMe | Badbyte](https://tryhackme.com/room/badbyte)
 
@@ -257,9 +251,9 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
-- [ ] [🕵️ TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
+- [x] [🕵️ TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
 
-- [ ] [🕵️ TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
+- [x] [🕵️ TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
 
 ## Medium CTF
 
@@ -278,6 +272,8 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 - [ ] [🕵️ TryHackMe | New York Flankees](https://tryhackme.com/room/thenewyorkflankees)
   
 - [ ] [🕵️ TryHackMe | Airplane](https://tryhackme.com/room/airplane)
+
+- [ ] [🕵️ TryHackMe | Super Secret TIp](https://tryhackme.com/room/supersecrettip)
   
 - [ ] [🕵️ TryHackMe | Profiles](https://tryhackme.com/room/profilesroom)
   
