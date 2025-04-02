@@ -65,7 +65,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 --- 
 
 ## Easy CTF
-- [x] [🕵️ TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)  .................................................  [**Writ Up**](https://0xfke.github.io/posts/Try-Hack-Me-Wgel-ctf/)
+- [x] [🕵️ TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)  .................................................  [**Write Up**](https://0xfke.github.io/posts/Try-Hack-Me-Wgel-ctf/)
       
 - [ ] [🕵️ TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)
   
