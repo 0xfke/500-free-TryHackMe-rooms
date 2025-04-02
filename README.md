@@ -14,7 +14,7 @@ Ready to start hacking? **Let’s go!** 💥
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
-| **[Easy CTF](#easy-ctf)**                        |     98       |           1                |
+| **[Easy CTF](#easy-ctf)**                        |     98       |           24                |
 | **[Medium CTF](#medium-ctf)**                    |     99       |                            |
 | **[Hard CTF](#hard-ctf)**                        |     42       |                            |
 | **[Insane CTF](#insane-ctf)**                    |      1       |                            |
@@ -42,7 +42,7 @@ Ready to start hacking? **Let’s go!** 💥
 | **[Buffer Overflow](#bufferoverflow)**           |      4       |                            |
 | **[Misc](#misc)**                                |     43       |                            |
 | **[Special Events](#special-events)**            |     12       |                            |
-| **Total Rooms:**                                 |    **= 503** |         **= 13**           |
+| **Total Rooms:**                                 |    **= 503** |         **= 37**           |
 
 ---
 
