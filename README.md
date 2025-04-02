@@ -34,7 +34,7 @@ Ready to start hacking? **Let’s go!** 💥
 | **[Forensics](#forensics)**                      |     17       |                            |
 | **[Wifi Hacking](#wi-fi-hacking)**               |      1       |                            |
 | **[Reverse Engineering](#reverse-engineering)**  |     10       |                            |
-| **[Malware Analysis](#malware-analysis)**        |      8       |                            |
+| **[Malware Analysis](#malware-analysis)**        |      8       |            6               |
 | **[Privilege Escalation](#privesc)**             |     13       |                            |
 | **[Windows](#windows)**                          |      9       |                            |
 | **[Active Directory](#active-directory)**        |      8       |                            |
@@ -42,7 +42,7 @@ Ready to start hacking? **Let’s go!** 💥
 | **[Buffer Overflow](#bufferoverflow)**           |      4       |                            |
 | **[Misc](#misc)**                                |     43       |                            |
 | **[Special Events](#special-events)**            |     12       |                            |
-| **Total Rooms:**                                 |    **= 503** |          **= 5**           |
+| **Total Rooms:**                                 |    **= 503** |         **= 13**           |
 
 ---
 
@@ -914,19 +914,19 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Intro to Detection Engineering](https://tryhackme.com/room/introtodetectionengineering)
 
-- [ ] [🕵️ TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
+- [x] [🕵️ TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
 
-- [ ] [🕵️ TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
+- [x] [🕵️ TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
 
-- [ ] [🕵️ TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere)
+- [x] [🕵️ TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere)
 
-- [ ] [🕵️ TryHackMe | MAL: Researching](https://tryhackme.com/room/malresearching)
+- [x] [🕵️ TryHackMe | MAL: Researching](https://tryhackme.com/room/malresearching)
 
 - [ ] [🕵️ TryHackMe | Mobile Malware Analysis](https://tryhackme.com/room/mma)
 
-- [ ] [🕵️ TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
+- [x] [🕵️ TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
 
-- [ ] [🕵️ TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9)
+- [x] [🕵️ TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9) ..................................................[Write Up](https://0xfke.github.io/posts/dunkle-materie/)
 
 ## PrivEsc
 
