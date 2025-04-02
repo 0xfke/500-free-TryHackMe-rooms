@@ -65,7 +65,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 --- 
 
 ## Easy CTF
-- [x] [🕵️ TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)  .................................................  [Writup](https://0xfke.github.io/posts/Try-Hack-Me-Wgel-ctf/)
+- [x] [🕵️ TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)  .................................................  [**Writ Up**](https://0xfke.github.io/posts/Try-Hack-Me-Wgel-ctf/)
       
 - [ ] [🕵️ TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)
   
@@ -610,9 +610,9 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [x] [🕵️ TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
   
-- [x] [🕵️ TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)  **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
+- [x] [🕵️ TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)  **🚨 no longer free.**
  
-- [x] [🕵️ TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)  **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
+- [x] [🕵️ TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)  **🚨 no longer free.**
 
 ## Windows Fundamentals
 
@@ -692,7 +692,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
-- [ ] [🕵️ TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan) **🚨 Attention!** Multiple users have reported that this room is **no longer free.**
+- [ ] [🕵️ TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan) **🚨 no longer free.**
 
 - [ ] [🕵️ TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
@@ -926,7 +926,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [x] [🕵️ TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
 
-- [x] [🕵️ TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9) ..................................................[Write Up](https://0xfke.github.io/posts/dunkle-materie/)
+- [x] [🕵️ TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9) ..................................................[**Write Up**](https://0xfke.github.io/posts/dunkle-materie/)
 
 ## PrivEsc
 
