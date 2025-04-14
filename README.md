@@ -1,9 +1,7 @@
-# 🚀 500+ Free TryHackMe Rooms 🛡️
-
 ### Welcome, Hackers! 👾
 
-Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into cybersecurity and hacking. These rooms are organized by topic so you can learn and practice systematically. Best part? **They’re all free!** 🧑‍💻🔓  
-
+Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into cybersecurity and hacking. These rooms are organized by topic so you can learn and practice systematically. Best part? **They’re all free!** 🧑‍💻🔓
+  
 ---
 
 ## 📜 **Table of Contents**
@@ -41,24 +39,6 @@ Here’s a curated list of **500+ Free TryHackMe rooms** to help you dive into c
 | **Total Rooms:**                                 |    **= 503** |         **= 37**           |
 
 ---
-
-## 🌟 Additional Suggestions for Labs
-
-Here are a few other labs you could consider adding:
-
-1. **Introductory Rooms** 🧑‍💻: Perfect for beginners just starting out on TryHackMe.
-2. **Linux Fundamentals** 🐧: Learn Linux, a critical skill for hacking.
-3. **Privilege Escalation** 📈: Explore how to elevate permissions for better control in systems.
-4. **Malware Analysis** 🦠: Investigate and reverse-engineer malicious code.
-5. **Web Hacking** 🌐: Master web vulnerabilities and exploit them like a pro.
-6. **OSINT (Open Source Intelligence)** 🕵️‍♂️: Dive into gathering intelligence from publicly available sources.
-7. **Social Engineering** 🧠: Practice rooms focusing on human-based hacking techniques like phishing.
-8. **Exploit Development** 💻: Learn how to create and modify exploits.
-9. **Cloud Security** ☁️: Add rooms related to AWS, Azure, or GCP security.
-
-So, what are you waiting for? Let’s grow this collection together, one lab at a time. 💻✨
-
---- 
 
 ## Easy CTF
 - [x] [🕵️ TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)  .................................................  [**Write Up**](https://0xfke.github.io/posts/Try-Hack-Me-Wgel-ctf/)
